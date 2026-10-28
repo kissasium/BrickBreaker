@@ -1,2 +1,2 @@
-## Collaborator
-- Kalsoom Tariq
+## Contributors
+- Kissa Zahra & Kalsoom Tariq
